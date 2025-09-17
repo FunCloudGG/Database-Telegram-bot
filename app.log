@@ -1,0 +1,15 @@
+2025-09-17 10:41:08,314 | INFO | Bot started
+2025-09-17 10:41:23,965 | INFO | Removed client: (4, '02', 'Jora', 'Lomanov', None, None, None, 'active')
+2025-09-17 10:42:06,662 | INFO | Added client: Jora Lamanok, number: 03
+2025-09-17 10:42:47,735 | INFO | Updated client from: (5, '03', 'Jora', 'Lamanok', '04375234752354', None, None, 'active') to: (5, '03', 'Jora', 'Lamanok', '021352365273235', None, None, 'inactive')
+2025-09-17 10:48:07,834 | INFO | Bot started
+2025-09-17 10:48:40,856 | INFO | Bot started
+2025-09-17 11:02:35,426 | INFO | Bot started
+2025-09-17 11:03:11,319 | INFO | Bot started
+2025-09-17 11:21:50,004 | INFO | Bot started
+2025-09-17 11:33:21,429 | INFO | Added client: Edvart Goldberg, number: 84
+2025-09-17 11:34:22,051 | INFO | Added tariff type: Standart
+2025-09-17 11:34:35,543 | INFO | Removed tariff with ID: 3
+2025-09-17 11:35:25,566 | INFO | Removed tariff type: Popa
+2025-09-17 11:37:56,774 | INFO | Bot started
+2025-09-17 11:38:45,180 | INFO | Added tariff type: Gold
